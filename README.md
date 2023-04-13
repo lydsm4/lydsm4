@@ -33,4 +33,16 @@ admyamile@gmail.com
 <img align="center" alt="TRELLO" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div><br />
 
+### Projeto
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lydsm4&repo=exercicio-joranda2&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydsm4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 
